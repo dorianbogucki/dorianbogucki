@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dorianbogucki
-- 🌱 I’m currently learning Python and C
-
 
 <!---
 dorianbogucki/dorianbogucki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
